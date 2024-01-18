@@ -1,0 +1,7 @@
+[general]
+name=MDE Proceso
+qgisMinimumVersion=3.0
+description=Un plugin para procesamiento de MDE en hidrología.
+version=1.0
+author=Antonio Miguel Gamiz Fuentes
+email=antoniomiguel1798@gmail.com
